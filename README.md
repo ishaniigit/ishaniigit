@@ -1,46 +1,46 @@
-<h1 align="center" style="color:#ff4b4b;">🌸 Ishani Chakravarty 🌸</h1>
-<p align="center"><b><i>AIML Undergrad | ML Learner | Building Real-World Projects</i></b></p>
+<h1 align="center">Hi, I'm Ishani Chakravarty 👋</h1>
+<p align="center"><b>AIML Undergrad | ML Learner | Building Real-World Projects</b></p>
 
 <hr>
 
-<h2 style="color:#ff9900;">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <details>
-  <summary>🎬 <strong style="color:#ff66cc;">MoodMovieBot</strong> – Bollywood Movie Recommender</summary>
+  <summary>🎬 <strong>MoodMovieBot</strong> – Bollywood Movie Recommender</summary>
   <br>
   <ul>
-    <li>🔗 <a href="https://github.com/ishaniigit/MoodMovieBot" style="color:#ff4500;"><b>View Project</b></a></li>
-    <li>🛠️ <span style="color:#228B22;">HTML</span>, <span style="color:#1E90FF;">CSS</span>, <span style="color:#FFD700;">JavaScript</span>, Meme GIFs</li>
-    <li>💭 Suggests Bollywood movies based on mood with meme vibes 😎</li>
-    <li>🎯 College-style, fun, light front-end project</li>
+    <li>🔗 <a href="https://github.com/ishaniigit/MoodMovieBot"><b>View Project</b></a></li>
+    <li>🛠️ Tech: HTML, CSS, JavaScript, Meme GIFs</li>
+    <li>💭 Suggests Bollywood movies based on your mood using fun meme reactions</li>
+    <li>🎯 Simple, front-end project focused on interactivity and user mood</li>
   </ul>
 </details>
 
 <details>
-  <summary>✉️ <strong style="color:#33cccc;">Spam Email Classifier</strong> – ML + Streamlit App</summary>
+  <summary>✉️ <strong>Spam Email Classifier</strong> – ML + Streamlit App</summary>
   <br>
   <ul>
-    <li>🔗 <a href="https://github.com/ishaniigit/EmailSpamClassifier_Project" style="color:#ff4500;"><b>View Project</b></a></li>
-    <li>🛠️ Python, Streamlit, Scikit-learn</li>
-    <li>📩 Classifies emails as spam or ham using Naive Bayes 🔍</li>
-    <li>⚡ Easy web interface with test inputs built using Streamlit</li>
+    <li>🔗 <a href="https://github.com/ishaniigit/EmailSpamClassifier_Project"><b>View Project</b></a></li>
+    <li>🛠️ Tech: Python, Streamlit, Scikit-learn</li>
+    <li>📩 Classifies emails as spam or ham using Naive Bayes</li>
+    <li>⚡ Built with a clean UI using Streamlit for easy testing</li>
   </ul>
 </details>
 
 <details>
-  <summary>📊 <strong style="color:#9933ff;">MLgoogle</strong> – Hands-on Machine Learning</summary>
+  <summary>📊 <strong>MLgoogle</strong> – Hands-on Machine Learning</summary>
   <br>
   <ul>
-    <li>🔗 <a href="https://github.com/ishaniigit/MLgoogle" style="color:#ff4500;"><b>View Project</b></a></li>
-    <li>🛠️ Python, Pandas, Numpy, Matplotlib</li>
-    <li>📚 Practice notebooks from Google’s ML Crash Course</li>
-    <li>🧠 Visuals, code, and concepts documented as I learn</li>
+    <li>🔗 <a href="https://github.com/ishaniigit/MLgoogle"><b>View Project</b></a></li>
+    <li>🛠️ Tech: Python, Pandas, Numpy, Matplotlib</li>
+    <li>📚 Practice notebooks and mini projects from Google’s ML Crash Course</li>
+    <li>🧠 Focused on real understanding through hands-on implementation</li>
   </ul>
 </details>
 
 <hr>
 
-<h2 style="color:#00bfff;">🔗 Connect With Me</h2>
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ishaniigit">
@@ -53,6 +53,7 @@
 
 <hr>
 
-<p align="center" style="color:#999999;"><i>“One project at a time. One step closer every day.”</i></p>
+<p align="center"><i>“One project at a time. One step closer every day.”</i></p>
+
 
 

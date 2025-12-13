@@ -1,90 +1,116 @@
-<h1 align="center">Hi, I'm Ishani Chakravarty 👋</h1>
-<p align="center">
-  <b>AIML Undergraduate | Machine Learning Learner | Building Real-World Projects</b>
-</p>
+<h1 align="center" style="color:#E50914;">
+  Hi, I'm Ishani Chakravarty 👋
+</h1>
 
 <p align="center">
+  <b>
+    <span style="color:#58A6FF;">AIML Undergraduate</span> |
+    <span style="color:#F85149;">Machine Learning Learner</span> |
+    <span style="color:#3FB950;">Building Real-World Projects</span>
+  </b>
+</p>
+
+<p align="center" style="color:#8B949E;">
   Turning curiosity into code, and ideas into working products.
 </p>
 
----
+<hr>
 
-## 🌱 About Me
+<h2 style="color:#E50914;">🌱 About Me</h2>
 
-- 🎓 AIML Undergraduate 
-- 🤖 Exploring **Machine Learning, AI & Data-driven systems**
-- 🧠 Learning by **building real, deployable projects**
-- 🎯 Interested in ML applications that solve practical problems
-- 🚀 One project at a time, consistently improving
+<ul>
+  <li>🎓 <b>AIML Undergraduate</b></li>
+  <li>🤖 Exploring <b>Machine Learning, AI & Data-driven systems</b></li>
+  <li>🧠 Learning by <b>building real, deployable projects</b></li>
+  <li>🎯 Interested in ML applications that solve practical problems</li>
+  <li>🚀 One project at a time, consistently improving</li>
+</ul>
 
----
+<hr>
 
-## 🚀 Featured Projects
+<h2 style="color:#E50914;">🚀 Featured Projects</h2>
 
-### 🎬 MoodMovieBot – Bollywood Movie Recommender  
-🔗 **GitHub:** https://github.com/ishaniigit/MoodMovieBot  
-🛠️ **Tech:** HTML, CSS, JavaScript  
-💡 Recommends Bollywood movies based on user mood using fun meme-style interactions  
-🎯 Front-end focused project emphasizing UX and engagement  
-
----
-
-### ✉️ Spam Email Classifier – ML + Streamlit App  
-🔗 **GitHub:** https://github.com/ishaniigit/EmailSpamClassifier_Project  
-🛠️ **Tech:** Python, Scikit-learn, Streamlit  
-💡 Classifies emails as **Spam / Ham** using Naive Bayes  
-⚡ Simple UI for real-time testing  
+<h3 style="color:#58A6FF;">🎬 MoodMovieBot – Bollywood Movie Recommender</h3>
+<p>
+🔗 <b>GitHub:</b> <a href="https://github.com/ishaniigit/MoodMovieBot">View Project</a><br>
+🛠️ <b>Tech:</b> HTML, CSS, JavaScript<br>
+💡 Recommends Bollywood movies based on user mood using fun meme-style interactions<br>
+🎯 Front-end focused project emphasizing UX and engagement
+</p>
 
 ---
 
-### ☀️ Solar Energy Predictor – ML Web App  
-🌐 **Live App:** https://solar-energy-project-r9xdiazck-ishani-chakravartys-projects.vercel.app  
-🛠️ **Tech:** Python, Machine Learning, Web Deployment  
-💡 Predicts solar energy output based on input parameters  
-🎯 Focused on sustainability + ML integration  
+<h3 style="color:#58A6FF;">✉️ Spam Email Classifier – ML + Streamlit App</h3>
+<p>
+🔗 <b>GitHub:</b> <a href="https://github.com/ishaniigit/EmailSpamClassifier_Project">View Project</a><br>
+🛠️ <b>Tech:</b> Python, Scikit-learn, Streamlit<br>
+💡 Classifies emails as <b>Spam / Ham</b> using Naive Bayes<br>
+⚡ Clean UI for real-time testing
+</p>
 
 ---
 
-## 🌐 Portfolio
+<h3 style="color:#58A6FF;">☀️ Solar Energy Predictor – ML Web App</h3>
+<p>
+🌐 <b>Live App:</b> 
+<a href="https://solar-energy-project-r9xdiazck-ishani-chakravartys-projects.vercel.app">
+🛠️ <b>Tech:</b> Python, Machine Learning, Web Deployment<br>
+💡 Predicts solar energy output based on input parameters<br>
+🎯 Sustainability-focused ML application
+</p>
 
-🎬 **Netflix-inspired Portfolio Website**  
-🔗 https://ishaniigit.github.io/Portfolio_Website/  
+<hr>
 
-- Dark UI with Netflix-style layout  
-- Project showcases  
-- Resume & profile sections  
-- Built to stand out visually  
+<h2 style="color:#E50914;">🌐 Portfolio</h2>
 
----
+<p>
+🎬 <b>Netflix-inspired Portfolio Website</b><br>
+🔗 <a href="https://ishaniigit.github.io/Portfolio_Website/">Visit Portfolio</a>
+</p>
 
-## 🧰 Tech Stack
+<ul>
+  <li>Dark UI with Netflix-style layout</li>
+  <li>Project showcases</li>
+  <li>Resume & profile sections</li>
+  <li>Built to stand out visually</li>
+</ul>
 
-**Languages & Tools**  
-`Python` `JavaScript` `HTML` `CSS`
+<hr>
 
-**Machine Learning**  
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+<h2 style="color:#E50914;">🧰 Tech Stack</h2>
 
-**Web & Deployment**  
-`Streamlit` `GitHub Pages` `Vercel`
+<p><b style="color:#58A6FF;">Languages & Tools</b></p>
+<p>
+  <code>Python</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+</p>
 
-**Currently Learning**  
-`Deep Learning` `Data Structures` `Advanced ML Concepts`
+<p><b style="color:#58A6FF;">Machine Learning</b></p>
+<p>
+  <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code>
+</p>
 
----
+<p><b style="color:#58A6FF;">Web & Deployment</b></p>
+<p>
+  <code>Streamlit</code> <code>GitHub Pages</code> <code>Vercel</code>
+</p>
 
-## 📊 GitHub Stats
+<p><b style="color:#58A6FF;">Currently Learning</b></p>
+<p>
+  <code>Deep Learning</code> <code>Data Structures</code> <code>Advanced ML Concepts</code>
+</p>
+
+<hr>
+
+<h2 style="color:#E50914;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- Total Commits -->
   <img src="https://github-readme-stats.vercel.app/api?username=ishaniigit&hide=stars,prs,issues,contribs&show_icons=false&count_private=true&theme=tokyonight" height="150"/>
-
-  <!-- Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniigit&layout=compact&theme=tokyonight" height="150"/>
 </p>
----
 
-## 🔗 Connect With Me
+<hr>
+
+<h2 style="color:#E50914;">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/ishaniigit">
@@ -95,8 +121,8 @@
   </a>
 </p>
 
----
+<hr>
 
-<p align="center">
+<p align="center" style="color:#8B949E;">
   <i>“One project at a time. One step closer every day.”</i>
 </p>

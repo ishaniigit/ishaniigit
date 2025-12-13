@@ -76,14 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaniigit&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniigit&layout=compact&theme=tokyonight" height="170"/>
-</p>
+  <!-- Total Commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaniigit&hide=stars,prs,issues,contribs&show_icons=false&count_private=true&theme=tokyonight" height="150"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaniigit&theme=tokyonight"/>
+  <!-- Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniigit&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
 ---
 
 ## 🔗 Connect With Me

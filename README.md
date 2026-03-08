@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="color:#8B949E;">
-  Turning curiosity into code, and ideas into working products.
+  Creating AI systems that amplify human potential.
 </p>
 
 <hr>
@@ -23,19 +23,18 @@
   <li>🤖 Exploring <b>Machine Learning, AI & Data-driven systems</b></li>
   <li>🧠 Learning by <b>building real, deployable projects</b></li>
   <li>🎯 Interested in ML applications that solve practical problems</li>
-  <li>🚀 One project at a time, consistently improving</li>
 </ul>
 
 <hr>
 
-<h2 style="color:#E50914;">🚀 Featured Projects</h2>
+<h2 style="color:#E50914;">Featured Projects</h2>
 
 <h3 style="color:#58A6FF;">🎬 MoodMovieBot – Bollywood Movie Recommender</h3>
 <p>
 🔗 <b>GitHub:</b> <a href="https://github.com/ishaniigit/MoodMovieBot">View Project</a><br>
 🛠️ <b>Tech:</b> HTML, CSS, JavaScript<br>
 💡 Recommends Bollywood movies based on user mood using fun meme-style interactions<br>
-🎯 Front-end focused project emphasizing UX and engagement
+ Front-end focused project emphasizing UX and engagement
 </p>
 
 ---
@@ -45,7 +44,7 @@
 🔗 <b>GitHub:</b> <a href="https://github.com/ishaniigit/EmailSpamClassifier_Project">View Project</a><br>
 🛠️ <b>Tech:</b> Python, Scikit-learn, Streamlit<br>
 💡 Classifies emails as <b>Spam / Ham</b> using Naive Bayes<br>
-⚡ Clean UI for real-time testing
+Clean UI for real-time testing
 </p>
 
 ---
@@ -56,7 +55,7 @@
 <a href="https://solar-energy-project-r9xdiazck-ishani-chakravartys-projects.vercel.app">
 🛠️ <b>Tech:</b> Python, Machine Learning, Web Deployment<br>
 💡 Predicts solar energy output based on input parameters<br>
-🎯 Sustainability-focused ML application
+Sustainability-focused ML application
 </p>
 
 <hr>
@@ -99,29 +98,26 @@
   <code>Deep Learning</code> <code>Data Structures</code> <code>Advanced ML Concepts</code>
 </p>
 
-<hr>
-
-<h2 style="color:#E50914;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaniigit&hide=stars,prs,issues,contribs&show_icons=false&count_private=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniigit&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<hr>
-
 <h2 style="color:#E50914;">🔗 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/ishaniigit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+
   <a href="https://www.linkedin.com/in/ishanichakravarty/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
+
+  <a href="mailto:ishani25.c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/ishxnix/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
 </p>
 
 <hr>
+
 
 <p align="center" style="color:#8B949E;">
   <i>“One project at a time. One step closer every day.”</i>
